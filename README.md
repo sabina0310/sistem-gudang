@@ -22,7 +22,7 @@ git clone https://github.com/username/repository-name.git
 ### 2. Masuk Direktori Project 
 cd repository-name
 
-### 3. Instal Dependencies
+### 3. Install Dependencies
 composer install
 
 ### 4. Copy .env file
@@ -35,4 +35,16 @@ Generate Application Key
 php artisan jwt:secret
 
 ### 7. Migrasi dan Seeder Database
+php artisan migrate --seed
 
+### 8. Jalankan Server
+php artisan serve
+
+### 9. Test Login 
+Gunakan akun berikut untuk login 
+email : admin@gmail.com
+password: 123
+
+## Dokumentasi API
+Berikut link dokumentasi REST API sistem gudang
+https://documenter.getpostman.com/view/38324462/2sAXqwZKi8
