@@ -17,7 +17,7 @@ Sebelum memulai instalasi, pastikan Anda sudah menginstal beberapa alat berikut:
 
 ## Instalasi
 ### 1. Clone Repository
-git clone https://github.com/sabina0310/sistem-gudang
+git clone https://github.com/sabina0310/sistem-gudang.git
 
 ### 2. Masuk Direktori Project 
 cd repository-name
