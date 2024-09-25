@@ -1,6 +1,6 @@
 # Sistem Gudang dengan Laravel dan JWT Authentication
 
-Project Laravel ini yang dibangun menggunakan Laravel V.10 dengan autentikasi menggunakan JWT (Json Web Token). Proyek ini mendukung login, logout, CRUD, serta pengelolaan mutasi barang dan stok.
+Project Laravel ini yang dikembangkan menggunakan Laravel V.10 dengan autentikasi menggunakan JWT (Json Web Token). Proyek ini mendukung login, logout, CRUD, serta pengelolaan mutasi barang.
 
 ## Fitur
 - Autentikasi JWT untuk API
